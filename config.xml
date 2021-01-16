@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.eddie.nhoco"
+    id          = "com.mapeio.zoz"
     versionCode = "4.0.0"
-    version     = "6.9" >
+    version     = "Test v2" >
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Eddie's</name>
+  <name>Mapeio</name>
 
   <description>
-      Shush good game ngl.
+      Welcome to the place of your nightmares.
+      -Added Joystick!
   </description>
 
-  <author href="https://gamejolt.com/@VenemonYT" email="not@not.com">
+  <author href="https://gamejolt.com/@VenemonYT" email="matiaspereira2101@gmail.com">
       VenemonTV
   </author>
    
@@ -22,5 +23,4 @@
   <preference name="KeepRunning" value="false"/>
   <preference name="Orientation" value="landscape" />
   <preference name="Fullscreen" value="true" />
-  <preference name="SplashMaintainAspectRatio" value="false" />   
 </widget>
